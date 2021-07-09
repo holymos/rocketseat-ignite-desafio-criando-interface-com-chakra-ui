@@ -27,13 +27,13 @@ Desafio baseado na biblioteca de componentes modulares e estilização Chakra UI
 - Clonar o repositório
 
 ```
-> git clone https://github.com/holymos/rocketseat-ignite-desafio-criando-interface-com-chakra-ui
+> git clone https://github.com/holymos/rocketseat-world-trip
 ```
 
 - Entrar no diretório do projeto
 
 ```
-> cd rocketseat-ignite-desafio-criando-interface-com-chakra-ui
+> cd rocketseat-world-trip
 ```
 
 - Instalar as dependências com o Yarn ou npm
